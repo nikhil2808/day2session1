@@ -1,0 +1,6 @@
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\interface\interface\bin\Debug\@interface.exe.config
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\interface\interface\bin\Debug\@interface.exe
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\interface\interface\bin\Debug\@interface.pdb
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\interface\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\interface\interface\obj\Debug\@interface.exe
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\interface\interface\obj\Debug\@interface.pdb

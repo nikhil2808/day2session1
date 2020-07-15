@@ -1,0 +1,6 @@
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\ProductManagement\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\nikhi\OneDrive\Desktop\dxc training1\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
